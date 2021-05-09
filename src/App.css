@@ -1,0 +1,90 @@
+.instructionsContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.instructions {
+  width: 600px;
+  grid-column: 1/5;
+  grid-row: 4;
+  margin: 20px;
+}
+
+.capture1Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.capture2Container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.compareContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.compare {
+  background-color: black;
+  color: white;
+  width: 600px;
+  height: 50px;
+  margin: 20px;
+  border: none;
+  border-radius: 8px;
+}
+
+.record {
+  grid-row: 1;
+  grid-column: 1;
+  min-height: 100px;
+  width: 100px;
+  background-color: magenta;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+}
+
+.stop {
+  min-height: 100px;
+  width: 100px;
+  background-color: gold;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+}
+
+.play {
+  min-height: 100px;
+  width: 100px;
+  background-color: yellowgreen;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+}
+
+.consoleLog {
+  min-height: 30px;
+  background-color: black;
+  color: white;
+  margin: 10px;
+  border: none;
+  border-radius: 8px;
+}
+
+.record:hover {
+  opacity: 0.7;
+}
+
+.stop:hover {
+  opacity: 0.7;
+}
+
+.play:hover {
+  opacity: 0.7;
+}

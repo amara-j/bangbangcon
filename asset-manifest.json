@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bangbangcon/static/css/main.564be11d.chunk.css",
-    "main.js": "/bangbangcon/static/js/main.5c1236fe.chunk.js",
-    "main.js.map": "/bangbangcon/static/js/main.5c1236fe.chunk.js.map",
-    "runtime-main.js": "/bangbangcon/static/js/runtime-main.e624a497.js",
-    "runtime-main.js.map": "/bangbangcon/static/js/runtime-main.e624a497.js.map",
-    "static/js/2.32f5220d.chunk.js": "/bangbangcon/static/js/2.32f5220d.chunk.js",
-    "static/js/2.32f5220d.chunk.js.map": "/bangbangcon/static/js/2.32f5220d.chunk.js.map",
-    "static/js/3.ec6a32e7.chunk.js": "/bangbangcon/static/js/3.ec6a32e7.chunk.js",
-    "static/js/3.ec6a32e7.chunk.js.map": "/bangbangcon/static/js/3.ec6a32e7.chunk.js.map",
-    "index.html": "/bangbangcon/index.html",
-    "static/css/main.564be11d.chunk.css.map": "/bangbangcon/static/css/main.564be11d.chunk.css.map",
-    "static/js/2.32f5220d.chunk.js.LICENSE.txt": "/bangbangcon/static/js/2.32f5220d.chunk.js.LICENSE.txt"
+    "main.css": "/bangbangcon/index.html/static/css/main.564be11d.chunk.css",
+    "main.js": "/bangbangcon/index.html/static/js/main.5c1236fe.chunk.js",
+    "main.js.map": "/bangbangcon/index.html/static/js/main.5c1236fe.chunk.js.map",
+    "runtime-main.js": "/bangbangcon/index.html/static/js/runtime-main.c83d7935.js",
+    "runtime-main.js.map": "/bangbangcon/index.html/static/js/runtime-main.c83d7935.js.map",
+    "static/js/2.32f5220d.chunk.js": "/bangbangcon/index.html/static/js/2.32f5220d.chunk.js",
+    "static/js/2.32f5220d.chunk.js.map": "/bangbangcon/index.html/static/js/2.32f5220d.chunk.js.map",
+    "static/js/3.ec6a32e7.chunk.js": "/bangbangcon/index.html/static/js/3.ec6a32e7.chunk.js",
+    "static/js/3.ec6a32e7.chunk.js.map": "/bangbangcon/index.html/static/js/3.ec6a32e7.chunk.js.map",
+    "index.html": "/bangbangcon/index.html/index.html",
+    "static/css/main.564be11d.chunk.css.map": "/bangbangcon/index.html/static/css/main.564be11d.chunk.css.map",
+    "static/js/2.32f5220d.chunk.js.LICENSE.txt": "/bangbangcon/index.html/static/js/2.32f5220d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e624a497.js",
+    "static/js/runtime-main.c83d7935.js",
     "static/js/2.32f5220d.chunk.js",
     "static/css/main.564be11d.chunk.css",
     "static/js/main.5c1236fe.chunk.js"
